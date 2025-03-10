@@ -37,7 +37,7 @@ npm install
 #### **Required Dependencies**
 Install the necessary TypeScript-related dependencies:
 ```sh
-npm install typescript ts-node @types/node @types/express @types/mongoose
+npm install typescript ts-node @types/node @types/express @types/mongoose @types/cors
 ```
 
 Install required backend dependencies:
