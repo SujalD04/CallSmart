@@ -1,0 +1,2 @@
+C:/Users/sujal/project/CallSmart/call_transcriber/android/app/.cxx/Debug/582d6z2t/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/sujal/project/CallSmart/call_transcriber/android/app/.cxx/Debug/582d6z2t/x86_64/CMakeFiles/rebuild_cache.dir
